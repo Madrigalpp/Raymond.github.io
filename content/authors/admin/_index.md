@@ -1,15 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 翟万康
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Zhái Wàn Kāng
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
-
-# Status emoji
+first_name: Raymond
+last_name: Zhai
 status:
   icon: ☕️
 
@@ -17,34 +15,32 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Looking for PhD/MS opportunities
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Dalian Maritime University
+    url: https://www.dlmu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include high-throughput medical data analysis, brain signal processing, and clinical applications of deep learning.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Biomedical Engineering
+  - Analysis of optimization algorithms for stability and convergence
+  - Few shot Learning (Meta Learning)
+  - Neuroscience：Implantable Brain-Machine Interface
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Msc/Phd
+      institution: Looking for ms/phd opportunities
+      year: 2025
+    - course: BSc in Electronic Engineering
+      institution: Dalian Maritime University
+      year: 2021
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -52,37 +48,54 @@ skills:
   - name: Technical
     items:
       - name: Python
-        description: ''
+        description: 'Using Torch to build Deep Learning Network'
         percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
+      - name: Matlab
+        description: 'Basic numerical calculation and image processing'
+        percent: 75
+      - name: LaTex
+        description: 'Writting Papers'
+        percent: 70
+      - name: Origin
+        description: 'Creating Papers Figure'
+        percent: 70
+      - name: C
+        description: 'Basic syntax, complete the embedded system experiment based on TivaC'
+        percent: 60     
+      - name: Assembly Language
+        description: 'Using Keil to Learn basic registers and storage space principles.'
         percent: 40
-        icon: database
-        icon_pack: fas
+
+    
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
+      - name: Swim
+        description: 'Current swim team athlete!'
+        percent: 100
+        icon: person-swimming
+        icon_pack: fas
+
+      - name: Powerlifting
+        description: 'Like to push your own limits'
+        percent: 75
+        icon: drum
+        icon_pack: fas
+      - name: Music
+        description: 'Served as drummer in the band during freshman year'
+        percent: 75
+        icon: drum
+        icon_pack: fas
       - name: Hiking
-        description: ''
+        description: 'Member of Mountaineering Association'
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
+
       - name: Photography
-        description: ''
-        percent: 80
+        description: 'Passionate about aerial photography'
+        percent: 60
         icon: camera-retro
         icon_pack: fas
 
@@ -93,25 +106,10 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: wzhai2@dlmu.edu.cn
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
+    link: https://github.com/Madrigalpp
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
@@ -120,5 +118,8 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello, I'm Zhái Wànkāng. My research interests primarily focus on high-throughput medical data analysis, biomedical signal processing, and the clinical applications of deep learning. I aim to integrate advanced technologies with medicine, striving to apply these techniques in real clinical practices. My goal is to contribute to significant advancements in human healthcare. I was also very interseted in wet experiment and neuroscience:)
 {style="text-align: justify;"}
+
+
+
