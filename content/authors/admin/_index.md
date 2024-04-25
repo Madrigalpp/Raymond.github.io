@@ -106,14 +106,22 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: wzhai2@dlmu.edu.cn
+    link: mailto:zhai@dlmu.edu.cn
   - icon: github
     icon_pack: fab
     link: https://github.com/Madrigalpp
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-
+  - icon: file
+    icon_pack: far
+    link: uploads/chinesev.pdf
+  - icon: paperclip
+    icon_pack: fas
+    link: uploads/sop.pdf
+  - icon: g
+    icon_pack: fas
+    link: uploads/g.pdf
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
